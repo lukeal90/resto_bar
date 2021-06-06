@@ -22,7 +22,7 @@
 
 <body>
   <header id="header-logo">
-    <a href="index.html" id="logo-redirect">
+    <a href="index.php" id="logo-redirect">
       <img id="logo" src="./images/logo.png" alt="" />
     </a>
   </header>
@@ -30,7 +30,7 @@
   <nav id="nav-menu">
     <ul class="nav-menu-ul">
       <li>
-        <a href="index.html">Inicio</a>
+        <a href="index.php">Inicio</a>
       </li>
       <li class="divider"></li>
       <li>
